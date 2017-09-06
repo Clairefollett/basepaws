@@ -1,0 +1,19 @@
+{
+  "name": "basepaws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clairefollett/basepaws.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Clairefollett/basepaws/issues"
+  },
+  "homepage": "https://github.com/Clairefollett/basepaws#readme"
+}
