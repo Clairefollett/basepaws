@@ -14,5 +14,5 @@ app.get('/', function(req, res) {
 	res.render('pages/product');
 });
 
-app.listen(8084);
-console.log('8084 is the magic port');
+app.listen(8080);
+console.log('8080 is the magic port');
